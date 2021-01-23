@@ -12,7 +12,7 @@ Go back to main repo of the challenge: [100 Days Of Code](https://github.com/myp
 
 ## Setup
 * Download Visual Studio Code
-* Download main.py
+* Download `main.py`
 
 ## Usage
 * Run `main.py` to see all steps
