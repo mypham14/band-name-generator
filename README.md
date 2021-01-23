@@ -1,6 +1,8 @@
 # Day 1: Band Name Generator
 Create a band name generator using a city name and a pet name
 
+Go back to main repo of the challenge: [100 Days Of Code](https://github.com/mypham14/100-days-of-code-python/blob/main/README.md)
+
 ## Files
 * main.py
 
